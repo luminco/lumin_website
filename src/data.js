@@ -37,9 +37,8 @@ const courses = [
             topicName: "GENERAL ISSUES RELATING TO LAW OF EVIDENCE",
             subTopics: [
               {
-            topicName: "GENERAL ISSUES RELATING TO LAW OF EVIDENCE(Paid)",
-                name: "",
-                videoLink: "#",
+            name: "GENERAL ISSUES RELATING TO LAW OF EVIDENCE(Paid)",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -60,7 +59,7 @@ const courses = [
             subTopics: [
               {
                 name: "Relevant Facts, Difference b/w Facts in Issue and Relevant Facts, Types of Evidence, Facts - Proved,Disproved and Not Proved (Free)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -81,7 +80,7 @@ const courses = [
             subTopics: [
               {
                 name: "Doctrine of relevancy, Difference b/w Admissibility and Relevance, Res gestate (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -123,7 +122,7 @@ const courses = [
             subTopics: [
               {
                 name: "Section 9 and 11(Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -144,7 +143,7 @@ const courses = [
             subTopics: [
               {
                 name: "Section 10, Object, Scope, Ingredients of the Section 10, PYQs (Free)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -165,7 +164,7 @@ const courses = [
             subTopics: [
               {
                 name: "Section 17, Sections 18, 19&20, Section 21, Section 25, Section 26, Section 27",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -186,7 +185,7 @@ const courses = [
             subTopics: [
               {
                 name: "Section 30, Section 113, Section 114(b), Section 32 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -207,7 +206,7 @@ const courses = [
             subTopics: [
               {
                 name: "Section 112 AND Validity of Expert, Hostile, Dumb and Child witness (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -228,7 +227,7 @@ const courses = [
             subTopics: [
               {
                 name: "Law of Estoppel, Privileged communication, Professional, communications (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -260,7 +259,7 @@ const courses = [
             subTopics: [
               {
                 name: "Final Joint Hindu Family (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -276,7 +275,7 @@ const courses = [
               },
               {
                 name: "Coparcenary(Free)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -292,7 +291,7 @@ const courses = [
               },
               {
                 name: "Mitak & Daya plus Karta (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -308,7 +307,7 @@ const courses = [
               },
                {
                 name: "Karta Notes (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -324,7 +323,7 @@ const courses = [
               },
                {
                 name: "Property (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -340,7 +339,7 @@ const courses = [
               },
                {
                 name: "Important PYQ (Free)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -361,7 +360,7 @@ const courses = [
             subTopics: [
               {
                 name: "Alienation (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -377,7 +376,7 @@ const courses = [
               },
               {
                 name: "RIGHTS AND DUTIES OF COPARCENERS AND ALIENEE (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -393,7 +392,7 @@ const courses = [
               },
               {
                 name: "QUESTIONS ON ALIENATION.mp4(Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -414,7 +413,7 @@ const courses = [
             subTopics: [
               {
                 name: "Part 1 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -430,7 +429,7 @@ const courses = [
               },
               {
                 name: "Part 2 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -446,7 +445,7 @@ const courses = [
               },
               {
                 name: "Part 3 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -462,7 +461,7 @@ const courses = [
               },
               {
                 name: "Part 4 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -484,7 +483,7 @@ const courses = [
             subTopics: [
               {
                 name: "Part 1 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -500,7 +499,7 @@ const courses = [
               },
               {
                 name: "Part 2 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -553,7 +552,7 @@ const courses = [
               },
               {
                 name: "Part 2 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -574,7 +573,7 @@ const courses = [
             subTopics: [
               {
                 name: "Part 1 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -590,7 +589,7 @@ const courses = [
               },
               {
                 name: "Part 2 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -611,7 +610,7 @@ const courses = [
             subTopics: [
               {
                 name: "Part 1 (Free)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -627,7 +626,7 @@ const courses = [
               },
                {
                 name: "Part 2 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -643,7 +642,7 @@ const courses = [
               },
                {
                 name: "Questions on Female Interstate Succession.mp4 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -659,7 +658,7 @@ const courses = [
               },
                {
                 name: "CASE SUMMARIES FOR SUCCESSION TO THE PROPERTY OF FEMALE INTERSATE(Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -680,7 +679,7 @@ const courses = [
             subTopics: [
               {
                 name: "Hindu Women's Estate (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -701,7 +700,7 @@ const courses = [
             subTopics: [
               {
                 name: "HIBA Part 1 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -717,7 +716,7 @@ const courses = [
               },
               {
                 name: "HIBA Part2 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -733,7 +732,7 @@ const courses = [
               },
               {
                 name: "CASE SUMMARIES-GIFT UNDER MUSLIM LAW (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -754,7 +753,7 @@ const courses = [
             subTopics: [
               {
                 name: "Inheritance under Muslim Law (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -770,7 +769,7 @@ const courses = [
               },
               {
                 name: "Part 2 and Questions (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -801,7 +800,7 @@ const courses = [
             subTopics: [
               {
                 name: "Sub Topic 1",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -822,7 +821,7 @@ const courses = [
             subTopics: [
               {
                 name: "Sub Topic 1",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -843,7 +842,7 @@ const courses = [
             subTopics: [
               {
                 name: "Sub Topic 1",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -875,7 +874,7 @@ const courses = [
             subTopics: [
               {
                 name: "Movable/Immovable Property (Section 3) [Free]",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -896,7 +895,7 @@ const courses = [
             subTopics: [
               {
                 name: "Attestation (Sec. 3) (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -917,7 +916,7 @@ const courses = [
             subTopics: [
               {
                 name: "Notice (Sec. 3) (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -938,7 +937,7 @@ const courses = [
             subTopics: [
               {
                 name: "Meaning of Transfer of Property (Sec. 5) (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -959,7 +958,7 @@ const courses = [
             subTopics: [
               {
                 name: "What Kind of Property can be transferred [Sec. 6(a) and 43] (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -980,7 +979,7 @@ const courses = [
             subTopics: [
               {
                 name: "Conditional Transfer (Sec. 10, 11 and 40) (Free)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -1001,7 +1000,7 @@ const courses = [
             subTopics: [
               {
                 name: "To be uploaded on: 8th July 2024",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -1022,7 +1021,7 @@ const courses = [
             subTopics: [
               {
                 name: "To be uploaded on: 8th July 2024",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -1043,7 +1042,7 @@ const courses = [
             subTopics: [
               {
                 name: "Transfer during pendency of litigation (Sec. 52) (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -1064,7 +1063,7 @@ const courses = [
             subTopics: [
               {
                 name: "Part 1 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -1080,7 +1079,7 @@ const courses = [
               },
                {
                 name: "Part 2 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -1101,7 +1100,7 @@ const courses = [
             subTopics: [
               {
                 name: "To be uploaded on: 8th July 2024",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -1122,7 +1121,7 @@ const courses = [
             subTopics: [
               {
                 name: "Gift (Sec. 122-126) (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -1153,7 +1152,7 @@ const courses = [
             subTopics: [
               {
                 name: "Sub Topic 1",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -1174,7 +1173,7 @@ const courses = [
             subTopics: [
               {
                 name: "Sub Topic 1",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -1195,7 +1194,7 @@ const courses = [
             subTopics: [
               {
                 name: "Sub Topic 1",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -1233,7 +1232,7 @@ const courses = [
             subTopics: [
               {
                 name: "Article 12 (Free)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -1254,7 +1253,7 @@ const courses = [
             subTopics: [
               {
                 name: "Article 13 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -1275,7 +1274,7 @@ const courses = [
             subTopics: [
               {
                 name: "Triple Talak (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -1296,7 +1295,7 @@ const courses = [
             subTopics: [
               {
                 name: "Article 14 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -1317,7 +1316,7 @@ const courses = [
             subTopics: [
               {
                 name: "Article 15 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -1338,7 +1337,7 @@ const courses = [
             subTopics: [
               {
                 name: "Article 16 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -1359,7 +1358,7 @@ const courses = [
             subTopics: [
               {
                 name: "Article 17 & 18 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -1380,7 +1379,7 @@ const courses = [
             subTopics: [
               {
                 name: "Article 19 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -1401,7 +1400,7 @@ const courses = [
             subTopics: [
               {
                 name: "Article 20 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -1422,7 +1421,7 @@ const courses = [
             subTopics: [
               {
                 name: "Article 21A (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -1443,7 +1442,7 @@ const courses = [
             subTopics: [
               {
                 name: "Article 22 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -1464,7 +1463,7 @@ const courses = [
             subTopics: [
               {
                 name: "Article 25 & 26 (Free)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -1485,7 +1484,7 @@ const courses = [
             subTopics: [
               {
                 name: "Article 29 & 30 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -1506,7 +1505,7 @@ const courses = [
             subTopics: [
               {
                 name: "Article 32 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -1527,7 +1526,7 @@ const courses = [
             subTopics: [
               {
                 name: "Fundamental Duties (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -1548,7 +1547,7 @@ const courses = [
             subTopics: [
               {
                 name: "To be uploaded on: 10th July 2024",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -1579,7 +1578,7 @@ const courses = [
             subTopics: [
               {
                 name: "Sub Topic 1",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -1600,7 +1599,7 @@ const courses = [
             subTopics: [
               {
                 name: "Sub Topic 1",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -1621,7 +1620,7 @@ const courses = [
             subTopics: [
               {
                 name: "Sub Topic 1",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -1652,7 +1651,7 @@ const courses = [
             subTopics: [
               {
                 name: "Sub Topic 1",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -1673,7 +1672,7 @@ const courses = [
             subTopics: [
               {
                 name: "Sub Topic 1",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -1694,7 +1693,7 @@ const courses = [
             subTopics: [
               {
                 name: "Sub Topic 1",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -1725,7 +1724,7 @@ const courses = [
             subTopics: [
               {
                 name: "Sub Topic 1",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -1746,7 +1745,7 @@ const courses = [
             subTopics: [
               {
                 name: "Sub Topic 1",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -1767,7 +1766,7 @@ const courses = [
             subTopics: [
               {
                 name: "Sub Topic 1",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -1798,7 +1797,7 @@ const courses = [
             subTopics: [
               {
                 name: "Sub Topic 1",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -1819,7 +1818,7 @@ const courses = [
             subTopics: [
               {
                 name: "Sub Topic 1",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -1840,7 +1839,7 @@ const courses = [
             subTopics: [
               {
                 name: "Sub Topic 1",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -1871,7 +1870,7 @@ const courses = [
             subTopics: [
               {
                 name: "Sub Topic 1",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -1892,7 +1891,7 @@ const courses = [
             subTopics: [
               {
                 name: "Sub Topic 1",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -1913,7 +1912,7 @@ const courses = [
             subTopics: [
               {
                 name: "Sub Topic 1",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -1952,7 +1951,7 @@ const courses = [
             subTopics: [
               {
                 name: "The Advocates Act,1961-Introduction (Free)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -1994,7 +1993,7 @@ const courses = [
             subTopics: [
               {
                 name: "Admissions and Enrollment of Advocates (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2010,7 +2009,7 @@ const courses = [
               },
                {
                 name: "Indira Jaising (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2031,7 +2030,7 @@ const courses = [
             subTopics: [
               {
                 name: "Right to Practice (Free)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2052,7 +2051,7 @@ const courses = [
             subTopics: [
               {
                 name: "Conduct Of Advocates and Disciplinary Proceedings (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2073,7 +2072,7 @@ const courses = [
             subTopics: [
               {
                 name: "Part 1 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2089,7 +2088,7 @@ const courses = [
               },
                {
                 name: "Part 2 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2110,7 +2109,7 @@ const courses = [
             subTopics: [
               {
                 name: "Part 1 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2126,7 +2125,7 @@ const courses = [
               },
               {
                 name: "Part 2 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2147,7 +2146,7 @@ const courses = [
             subTopics: [
               {
                 name: "Contempt By Judge & Magistrates (Free)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2168,7 +2167,7 @@ const courses = [
             subTopics: [
               {
                 name: "Punishment for Contempt (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2189,7 +2188,7 @@ const courses = [
             subTopics: [
               {
                 name: "Procedure Of Contempt (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2210,7 +2209,7 @@ const courses = [
             subTopics: [
               {
                 name: "Part 1 (Free)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2226,7 +2225,7 @@ const courses = [
               },
               {
                 name: "Part 2 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2242,7 +2241,7 @@ const courses = [
               },
               {
                 name: "Part 3 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2263,7 +2262,7 @@ const courses = [
             subTopics: [
               {
                 name: "Summary Of Case Laws 1 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2279,7 +2278,7 @@ const courses = [
               },
                {
                 name: "Summary Of Case Laws 2 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2295,7 +2294,7 @@ const courses = [
               },
                {
                 name: "Summary Of Case Laws 3 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2327,7 +2326,7 @@ const courses = [
             subTopics: [
               {
                 name: "Introduction (Free)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2348,7 +2347,7 @@ const courses = [
             subTopics: [
               {
                 name: "NEGOTIATION: INTRODUCTION, STYLES AND STATERGIES (Free)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2369,7 +2368,7 @@ const courses = [
             subTopics: [
               {
                 name: "Mediation/Conciliation (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2390,7 +2389,7 @@ const courses = [
             subTopics: [
               {
                 name: "Arbitration (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2422,7 +2421,7 @@ const courses = [
             subTopics: [
               {
                 name: "Part 1 (Free)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2438,7 +2437,7 @@ const courses = [
               },
                {
                 name: "Part 2 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2454,7 +2453,7 @@ const courses = [
               },
                {
                 name: "Part 3 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2470,7 +2469,7 @@ const courses = [
               },
                {
                 name: "Notes (Free)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2491,7 +2490,7 @@ const courses = [
             subTopics: [
               {
                 name: "Part 1 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2507,7 +2506,7 @@ const courses = [
               },
                {
                 name: "Part 2 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2523,7 +2522,7 @@ const courses = [
               },
                {
                 name: "Part 3 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2539,7 +2538,7 @@ const courses = [
               },
                {
                 name: "Notes (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2560,7 +2559,7 @@ const courses = [
             subTopics: [
               {
                 name: "Constitutional Perspective (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2581,7 +2580,7 @@ const courses = [
             subTopics: [
               {
                 name: "Part 1 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2597,7 +2596,7 @@ const courses = [
               },
                {
                 name: "Part 2 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2613,7 +2612,7 @@ const courses = [
               },
                {
                 name: "Notes (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2634,7 +2633,7 @@ const courses = [
             subTopics: [
               {
                 name: "Part 1 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2655,7 +2654,7 @@ const courses = [
             subTopics: [
               {
                 name: "Part 1 (Free)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2676,7 +2675,7 @@ const courses = [
             subTopics: [
               {
                 name: "Part 1 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2692,7 +2691,7 @@ const courses = [
               },
                {
                 name: "Part 2 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2708,7 +2707,7 @@ const courses = [
               },
                {
                 name: "Notes (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2740,7 +2739,7 @@ const courses = [
             subTopics: [
               {
                 name: "Lecture 1 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2756,7 +2755,7 @@ const courses = [
               },
               {
                 name: "Lecture 2 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2772,7 +2771,7 @@ const courses = [
               },
               {
                 name: "Notes (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2793,7 +2792,7 @@ const courses = [
             subTopics: [
               {
                 name: "Lecture 1 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2809,7 +2808,7 @@ const courses = [
               },
               {
                 name: "Lecture 2 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2825,7 +2824,7 @@ const courses = [
               },
               {
                 name: "Notes (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2846,7 +2845,7 @@ const courses = [
             subTopics: [
               {
                 name: "Lecture 1 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2862,7 +2861,7 @@ const courses = [
               },
                {
                 name: "Lecture 2 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2878,7 +2877,7 @@ const courses = [
               },
               {
                 name: "Notes (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2899,7 +2898,7 @@ const courses = [
             subTopics: [
               {
                 name: "Lecture 1 (Free)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2920,7 +2919,7 @@ const courses = [
             subTopics: [
               {
                 name: "Lecture 1 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2941,7 +2940,7 @@ const courses = [
             subTopics: [
               {
                 name: "Lecture 1 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2957,7 +2956,7 @@ const courses = [
               },
                {
                 name: "Lecture 2 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2973,7 +2972,7 @@ const courses = [
               },
                {
                 name: "Notes (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -2994,7 +2993,7 @@ const courses = [
             subTopics: [
               {
                 name: "Lecture 1 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -3015,7 +3014,7 @@ const courses = [
             subTopics: [
               {
                 name: "Lecture 1 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -3036,7 +3035,7 @@ const courses = [
             subTopics: [
               {
                 name: "Lecture 1 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -3052,7 +3051,7 @@ const courses = [
               },
                {
                 name: "Lecture 2 (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -3068,7 +3067,7 @@ const courses = [
               },
                {
                 name: "Notes (Paid)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -3089,7 +3088,7 @@ const courses = [
             subTopics: [
               {
                 name: "Lecture 1 (Free)",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -3120,7 +3119,7 @@ const courses = [
             subTopics: [
               {
                 name: "Sub Topic 1",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -3141,7 +3140,7 @@ const courses = [
             subTopics: [
               {
                 name: "Sub Topic 1",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
@@ -3162,7 +3161,7 @@ const courses = [
             subTopics: [
               {
                 name: "Sub Topic 1",
-                videoLink: "#",
+                videoUrl: "#",
                 textLink: "#",
                 pyqs: [
                   {
